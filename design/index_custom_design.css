@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.font{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  width: 1600px;
+}
+
+.button_design{
+    color: #FFFFFF;
+    background-color: #30B868;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 12.5px 16px 12.5px 16px;
+}
+
+/* for banner's navigation part  */
+#banner_section{
+    height: 92px;
+    background-color: #FFFFFF;
+    display: flex;
+    margin: 16px 120px 16px 120px;
+    align-items: center;
+}
+
+.nav_image{
+    width: 139px;
+    height: 60px;
+    margin-right: 346px;
+}
+
+.nav_button{
+    width: 164px;
+    height: 44px;
+    margin-left: 346px;
+    margin-top: 24px;
+}
+
+/* for nav menu/link part  */
+.nav ul{
+    list-style: none;
+    display: flex;
+    gap: 32px;
+    
+}
+
+.nav a{
+    font-size: 16px;
+    font-weight: 500;
+    color: #000000;
+    text-decoration: none;
+}
+
+/* for banner's lower part  */
+#banner_section2nd{
+    height: 674px;
+    background:url("../images/cropped-hands-woman-writing-book\ 1.png")
+    
+}
+
+#banner_section2nd_text{
+    width: 1360px;
+    height: 379px;
+    padding: 115.5px 120px 179.5px 120px;
+    text-align: center;
+}
+
+#button_head{
+    margin-top: 32px;
+}
+
+.heading{
+    width: 229px;
+    height: 35px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 1000px;
+    color: #30B868;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 12px 8px 34px;
+    margin-left: 565.5px;
+    margin-bottom: 16px;
+}
+
+.text_button h1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.text_button p{
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 32px;
+}
+
+#upper{
+    color: #FFFFFF;
+}
+
+#lower{
+    color: #30B868;
+    margin-bottom: 16px;
+}
