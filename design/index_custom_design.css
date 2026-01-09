@@ -127,3 +127,25 @@
     color: #30B868;
     margin-bottom: 16px;
 }
+
+/* for heading bellow banner  */
+#heading_bellow_banner{
+    width: 1360px;
+    height: 152px;
+    margin: 0 120px 0 120px;
+    text-align: center;
+}
+
+#heading_bellow_banner h2{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+    margin-top: 36px;
+}
+
+#heading_bellow_banner p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
