@@ -72,6 +72,7 @@
     height: 674px;
     background:url("../images/cropped-hands-woman-writing-book\ 1.png")
     
+    
 }
 
 #banner_section2nd_text{
@@ -98,7 +99,7 @@
     border: none;
     border-radius: 1000px;
     align-items: center;
-    margin-left: 565.5px;
+    margin-left: 440px;
 }
 
 .heading h4{
@@ -273,3 +274,55 @@
     line-height: 24px;
     color: #627382;
 }
+
+/* for footer section  */
+#foot_section_container{
+    width: 1600px;
+    height: 348px;
+    margin-top: 0;
+    background-color: rgb(1, 1, 37);
+}
+
+
+#foot_section{
+    display: flex;
+    gap: 1001px;
+    padding: 120px 120px 30px 120px;
+    
+}
+
+
+#foot_section .icons{
+    display: flex;
+    gap: 16px;
+    
+}
+
+.image_icon{
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.copyright{
+    width: 1360px;
+    height: 24px;
+    border-top: 1px solid #FFFFFF;
+    margin: 110px 120px 30px 120px;
+    text-align: center;
+}
+
+.copyright p{
+    color: #FFFFFF;
+    font-size: 16px;
+    color: #FAFAFA;
+    margin-bottom: 30px;
+}
+
